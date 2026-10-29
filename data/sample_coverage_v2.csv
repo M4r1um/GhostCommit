@@ -1,0 +1,17 @@
+repo,sample_month,population_reported,population_fetched,population_open,population_closed,collected,sample_weight,windows_used,method
+microsoft/vscode,2025-01,1364,1364,140,1224,1364,1.0,2,census
+microsoft/vscode,2025-04,1586,1586,207,1379,1586,1.0,2,census
+microsoft/vscode,2025-07,4728,4728,299,4429,4728,1.0,8,census
+microsoft/vscode,2025-10,3673,3673,307,3366,3673,1.0,5,census
+react/react,2025-01,96,96,8,88,96,1.0,1,census
+react/react,2025-04,60,60,12,48,60,1.0,1,census
+react/react,2025-07,177,177,6,171,177,1.0,1,census
+react/react,2025-10,102,102,23,79,102,1.0,1,census
+pandas-dev/pandas,2025-01,63,63,8,55,63,1.0,1,census
+pandas-dev/pandas,2025-04,75,75,8,67,75,1.0,1,census
+pandas-dev/pandas,2025-07,89,89,11,78,89,1.0,1,census
+pandas-dev/pandas,2025-10,92,92,18,74,92,1.0,1,census
+fastapi/fastapi,2025-01,2,2,0,2,2,1.0,1,census
+fastapi/fastapi,2025-04,1,1,0,1,1,1.0,1,census
+fastapi/fastapi,2025-07,1,1,0,1,1,1.0,1,census
+fastapi/fastapi,2025-10,5,5,0,5,5,1.0,1,census

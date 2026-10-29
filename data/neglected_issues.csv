@@ -1,0 +1,5 @@
+repository,total_records,unique_issues,open_issues,closed_issues,missing_created_dates
+fastapi/fastapi,9,9,0,9,0
+microsoft/vscode,400,400,45,355,0
+pandas-dev/pandas,319,319,45,274,0
+react/react,356,356,45,311,0

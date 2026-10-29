@@ -1,0 +1,136 @@
+repository,issue_number,title,age_days,inactive_days,comments,assignee_count,attention_score,attention_level,html_url
+react/react,32089,[DevTools Bug]: incorrect error on react-hooks/exhaustive-deps,649,637,0,0,100,High,https://github.com/react/react/issues/32089
+react/react,32835,[DevTools Bug]: symbolicated sourcemaps won't fetch for rsc components on Chrome 135.0.7 (rsc:// and webpack:// prefixed fetches fail),566,566,0,0,100,High,https://github.com/react/react/issues/32835
+react/react,34800,[Compiler Bug]: Using a hook from an object bundle makes Compiler skip the consuming hook,382,358,0,0,100,High,https://github.com/react/react/issues/34800
+react/react,34888,[Compiler Bug]: Recursive functions seem to confuse the compiler,376,358,0,0,100,High,https://github.com/react/react/issues/34888
+react/react,34899,[Compiler Bug]: Incorrect JS output when copying and updating global variable with `+=` in `useEffect`,375,358,0,0,100,High,https://github.com/react/react/issues/34899
+pandas-dev/pandas,60767,"BUG: pd.crosstab(dropna=True, values=) drops rows and columns where any aggregation result is null.",643,641,1,0,90,High,https://github.com/pandas-dev/pandas/issues/60767
+pandas-dev/pandas,61256,"ENH: Utility to return ""feasible"" dtype for `infer_dtype` output.",567,485,2,0,90,High,https://github.com/pandas-dev/pandas/issues/61256
+pandas-dev/pandas,61772,BUG: Calling dict(df.groupby(...)) raises TypeError: 'str' object is not callable despite valid inputs,481,477,2,0,90,High,https://github.com/pandas-dev/pandas/issues/61772
+react/react,33075,[Compiler Todo]: `for await` loop fails to optimize component.,545,434,3,0,90,High,https://github.com/react/react/issues/33075
+react/react,33689,[Compiler Bug]: Not handling named functions calling named functions when defined in a weird order,481,358,3,0,90,High,https://github.com/react/react/issues/33689
+react/react,33762,"[Compiler Bug]: I encountered an error when running yarn build:chrome, then errors happen",473,358,1,0,90,High,https://github.com/react/react/issues/33762
+react/react,32109,"[Compiler Bug]: eslint plugin erroneously flags third-party functions starting with ""use"" as hooks",648,358,2,0,90,High,https://github.com/react/react/issues/32109
+react/react,34931,"[Compiler Bug]: Using useMemo with an sync function should not be reported, or should be able to be configured",371,358,1,0,90,High,https://github.com/react/react/issues/34931
+react/react,33025,[Compiler Bug]: Unexpected [ Server ] Error: {} causing ErrorBoundary crash in Next.js 15.1.6 with Turbopack,550,358,3,0,90,High,https://github.com/react/react/issues/33025
+react/react,33738,"[DevTools Bug] Cannot remove node ""810"" because no matching node was found in the Store.",476,324,1,0,90,High,https://github.com/react/react/issues/33738
+react/react,34954,[Compiler Bug]: react-hooks/refs false positive on ref forwarding,370,240,2,0,90,High,https://github.com/react/react/issues/34954
+pandas-dev/pandas,62558,ENH: Adding an empty level at the end of a multi index,389,204,2,0,90,High,https://github.com/pandas-dev/pandas/issues/62558
+microsoft/vscode,237160,copy paste on cells does not copy the tags only cell is copied,664,151,0,0,90,High,https://github.com/microsoft/vscode/issues/237160
+microsoft/vscode,237234,No hint shown when hovering over type in debugger variables view,662,659,0,1,80,High,https://github.com/microsoft/vscode/issues/237234
+pandas-dev/pandas,60671,"BUG: .to_period with MonthBegin offset does not work with a Timestamp, but works with pd.DatetimeIndex",658,634,6,0,80,High,https://github.com/pandas-dev/pandas/issues/60671
+pandas-dev/pandas,60774,BUG: datetime64 column type fails parquet round trip,642,605,7,0,80,High,https://github.com/pandas-dev/pandas/issues/60774
+microsoft/vscode,245323,Folder settings label not vertically aligned,573,573,0,1,80,High,https://github.com/microsoft/vscode/issues/245323
+microsoft/vscode,245199,Settings editor: allow a query that combines `id` and `tag`,574,571,0,1,80,High,https://github.com/microsoft/vscode/issues/245199
+react/react,33050,[Compiler]: skipped memoization due to potential modification after hook call,546,546,5,0,80,High,https://github.com/react/react/issues/33050
+microsoft/vscode,245278,Add a Border or Container for Walkthrough Videos for Better Visual Framing,574,543,0,1,80,High,https://github.com/microsoft/vscode/issues/245278
+microsoft/vscode,253201,Support comments in header section,483,482,0,1,80,High,https://github.com/microsoft/vscode/issues/253201
+microsoft/vscode,253206,Notification talks about inline suggestions,483,481,0,1,80,High,https://github.com/microsoft/vscode/issues/253206
+pandas-dev/pandas,61881,API: boolean ops with float dtype,468,407,4,0,80,High,https://github.com/pandas-dev/pandas/issues/61881
+pandas-dev/pandas,61245,BUG: remove_unused_levels does not keep index levels order,568,404,6,0,80,High,https://github.com/pandas-dev/pandas/issues/61245
+microsoft/vscode,253226,MCP Servers View: Does not indicate when there is an mcp which has an error loading,483,392,0,1,80,High,https://github.com/microsoft/vscode/issues/253226
+microsoft/vscode,269346,[html] Incorrect onclick attribute Parsing,391,391,0,1,80,High,https://github.com/microsoft/vscode/issues/269346
+pandas-dev/pandas,61980,BUG: Boolean Column Indexing Issue in Pandas,456,378,4,0,80,High,https://github.com/pandas-dev/pandas/issues/61980
+pandas-dev/pandas,62651,ENH: : Add header Autofilter and optional bold via engine_kwargs in to_excel,382,359,4,0,80,High,https://github.com/pandas-dev/pandas/issues/62651
+react/react,32986,[Compiler Bug]: eslint-plugin-react-hooks does not enable the new rule for the React compiler,553,358,10,0,80,High,https://github.com/react/react/issues/32986
+react/react,35009,[Compiler Bug]: False positive on closure var reassignment in useMemo store,363,358,3,0,80,High,https://github.com/react/react/issues/35009
+react/react,34989,[Compiler Bug]: Callback ref wrapped in `useCallback` not being recreated and rerun,365,358,5,0,80,High,https://github.com/react/react/issues/34989
+react/react,33032,[Compiler]: Effects with always-new dependencies fire less with memoization applied,549,358,7,0,80,High,https://github.com/react/react/issues/33032
+react/react,32235,[Compiler Bug]: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used,638,358,4,0,80,High,https://github.com/react/react/issues/32235
+react/react,34891,"[Compiler Bug]: Incorrect immutability error ""Error: This value cannot be modified""",376,358,7,0,80,High,https://github.com/react/react/issues/34891
+react/react,34957,[Compiler Bug]: `react-hooks/preserve-manual-memoization` is triggered for state setter depending on position of `useState`,369,357,5,0,80,High,https://github.com/react/react/issues/34957
+react/react,35007,[Compiler Bug]: MDX content isn’t handled by React compiler,363,356,2,0,80,High,https://github.com/react/react/issues/35007
+pandas-dev/pandas,60642,BUG: MultiIndex union/difference not commutative,663,355,8,0,80,High,https://github.com/pandas-dev/pandas/issues/60642
+pandas-dev/pandas,62918,DEPR: Series.combine with non-Series,362,352,2,0,80,High,https://github.com/pandas-dev/pandas/issues/62918
+microsoft/vscode,237148,"Abnormal  CPU Usage, caused by none of extentions",664,322,0,1,80,High,https://github.com/microsoft/vscode/issues/237148
+microsoft/vscode,253211,Support Instruction Breakpoints in the VS Code API,483,322,0,1,80,High,https://github.com/microsoft/vscode/issues/253211
+microsoft/vscode,269258,"Can't trigger ""changed 1 file"" button with keyboard",392,322,0,1,80,High,https://github.com/microsoft/vscode/issues/269258
+microsoft/vscode,245312,Crash in linux smoke tests,573,322,0,1,80,High,https://github.com/microsoft/vscode/issues/245312
+microsoft/vscode,269335,"""sorry, the response hit the lenght limit. please rephrase your prompt""",391,312,0,2,80,High,https://github.com/microsoft/vscode/issues/269335
+react/react,34794,[Compiler Bug]: false positive for eslint rule react-hooks/static-components,383,301,6,0,80,High,https://github.com/react/react/issues/34794
+microsoft/vscode,237220,"Support data URI's in image preview, so it could be used from extensions",662,237,0,2,80,High,https://github.com/microsoft/vscode/issues/237220
+pandas-dev/pandas,62930,ENH: Update `testing.assert_frame_equal` message to list all cols with diffs,362,203,2,0,80,High,https://github.com/pandas-dev/pandas/issues/62930
+pandas-dev/pandas,61223,BUG: setting item to iterable with .at fails when column doesn't exist or has wrong dtype,572,190,7,0,80,High,https://github.com/pandas-dev/pandas/issues/61223
+pandas-dev/pandas,62766,BUG: boolean operations for Index return np.array instead of Index,372,180,7,0,80,High,https://github.com/pandas-dev/pandas/issues/62766
+pandas-dev/pandas,62704,ENH: Prevent filling in `unstack()`,377,171,3,0,80,High,https://github.com/pandas-dev/pandas/issues/62704
+pandas-dev/pandas,60693,"ENH: add `__rshift__`, `__lshift__`, `__irshift__` and `__ilshift__`",654,171,1,0,80,High,https://github.com/pandas-dev/pandas/issues/60693
+react/react,34955,[Compiler Bug]: react-hooks/immutability false positive on ref assignment,370,113,1,0,80,High,https://github.com/react/react/issues/34955
+react/react,32039,[Compiler]: Extend Function outlining to object methods,655,110,2,0,80,High,https://github.com/react/react/issues/32039
+react/react,34924,"[Compiler Bug]: ""This dependency may be mutated later"" error is inconsistent",372,100,1,0,80,High,https://github.com/react/react/issues/34924
+microsoft/vscode,245397,Define + audit behavior for mixed-quality extension installation,573,54,0,0,80,High,https://github.com/microsoft/vscode/issues/245397
+microsoft/vscode,237359,Can't use Notebook Find (ctrl+f) in notebook diff viewer,663,659,2,1,70,Medium,https://github.com/microsoft/vscode/issues/237359
+microsoft/vscode,237201,Allow for styling the bracket colorized guides,663,620,3,1,70,Medium,https://github.com/microsoft/vscode/issues/237201
+microsoft/vscode,253199,Disabling `Show accent color on title bars and window borders` requires restart,483,483,1,1,70,Medium,https://github.com/microsoft/vscode/issues/253199
+microsoft/vscode,253157,Tooltip for tool description is way off quick pick,484,474,1,1,70,Medium,https://github.com/microsoft/vscode/issues/253157
+microsoft/vscode,245302,"[Sticky Scroll] If a function consist of multiline arguments, sticky the function also multiline",573,422,3,1,70,Medium,https://github.com/microsoft/vscode/issues/245302
+microsoft/vscode,245363,SCM input placeholder text is not vertically centered,573,329,1,1,70,Medium,https://github.com/microsoft/vscode/issues/245363
+react/react,35024,[Compiler Bug]: TanStack Form incompatibility ,361,329,4,0,70,Medium,https://github.com/react/react/issues/35024
+microsoft/vscode,245401,When the UI is zoomed in (higher than 100% level) the autocomplete tooltip sometimes completely covers the code I'm writing,573,323,3,1,70,Medium,https://github.com/microsoft/vscode/issues/245401
+microsoft/vscode,245355,"""Open Containing Folder"" Fails Unless File Browser is Already Open",573,322,1,1,70,Medium,https://github.com/microsoft/vscode/issues/245355
+microsoft/vscode,245240,VS Code on MDB frequently freezes,574,322,2,1,70,Medium,https://github.com/microsoft/vscode/issues/245240
+microsoft/vscode,237180,When trying to open a 300MB log file the VCD Crashes,663,322,3,1,70,Medium,https://github.com/microsoft/vscode/issues/237180
+microsoft/vscode,245268,Trying to run as root (FreeBSD) or Admin (Windows) fails with an error,574,322,1,1,70,Medium,https://github.com/microsoft/vscode/issues/245268
+microsoft/vscode,253207,Trigger Next Edit suggestion should take next error into account even if this is further away,483,321,1,1,70,Medium,https://github.com/microsoft/vscode/issues/253207
+microsoft/vscode,269269,Git - Do not see chat sparkle icon when merge conflict is generated,391,321,1,1,70,Medium,https://github.com/microsoft/vscode/issues/269269
+microsoft/vscode,269272,Git - Do not see sparkle or Resolve with AI when merge conflict exists between two worktrees,391,321,1,1,70,Medium,https://github.com/microsoft/vscode/issues/269272
+microsoft/vscode,245392,Explorer jumps position when focusing from a seperate window in the same workspace,573,286,1,1,70,Medium,https://github.com/microsoft/vscode/issues/245392
+pandas-dev/pandas,62926,BUG: indexing a MultiIndex-ed DataFrame (only) with a scalar on a level and a slice on another doesn't drop a level,362,200,15,0,70,Medium,https://github.com/pandas-dev/pandas/issues/62926
+microsoft/vscode,269340,`MCP: Open Remote User Configuration` open incorrect file,391,180,1,1,70,Medium,https://github.com/microsoft/vscode/issues/269340
+microsoft/vscode,245405,API to save a non-active document without formatting,573,174,9,0,70,Medium,https://github.com/microsoft/vscode/issues/245405
+pandas-dev/pandas,62719,ENH: Add Series.split and DataFrame.split,376,163,8,0,70,Medium,https://github.com/pandas-dev/pandas/issues/62719
+react/react,32852,"[DevTools Bug] Cannot add node ""909"" because a node with that id is already in the Store.",564,152,22,0,70,Medium,https://github.com/react/react/issues/32852
+react/react,34775,Bug: eslint-react-hooks false positives on refs rule,384,108,25,0,70,Medium,https://github.com/react/react/issues/34775
+pandas-dev/pandas,62635,BUG: read_csv with pyarrow engine cannot handle single-line CSV files,383,93,6,0,70,Medium,https://github.com/pandas-dev/pandas/issues/62635
+pandas-dev/pandas,60676,ENH: Change default dtype of `str.get_dummies()` to bool for consistency with `pd.get_dummies()`,657,13,0,0,65,Medium,https://github.com/pandas-dev/pandas/issues/60676
+microsoft/vscode,245339,Diff doesn't recognize matching lines,573,568,6,1,60,Medium,https://github.com/microsoft/vscode/issues/245339
+react/react,32196,"[DevTools Bug]:  [DevTools Bug] Cannot reorder children for node ""0"" because no matching node was found in the Store.",642,343,5,1,60,Medium,https://github.com/react/react/issues/32196
+microsoft/vscode,237136,{Linked:Bug9528439} NVDA/JAWS is not announcing the state expand/collapse for the pick model button: A11y_VS Code_Copilot Chat_Screen Reader,664,323,5,1,60,Medium,https://github.com/microsoft/vscode/issues/237136
+react/react,34866,[DevTools Bug]: CSS Animation Errors When Using Devtools,377,323,5,1,60,Medium,https://github.com/react/react/issues/34866
+microsoft/vscode,269246,[Accessibility] Expose lines numbers so that Windows 11 Voice access is able to see them for navigation,392,321,4,1,60,Medium,https://github.com/microsoft/vscode/issues/269246
+microsoft/vscode,245332,Polish the workspace index indicator,573,320,10,2,60,Medium,https://github.com/microsoft/vscode/issues/245332
+microsoft/vscode,269250,[json] show a notification when retrying to load a schema fails,392,319,4,1,60,Medium,https://github.com/microsoft/vscode/issues/269250
+microsoft/vscode,237207,Screen Flickering Issue,662,303,5,1,60,Medium,https://github.com/microsoft/vscode/issues/237207
+react/react,32165,[DevTools Bug]: react-devtools not start up,643,249,7,1,60,Medium,https://github.com/react/react/issues/32165
+microsoft/vscode,237199,Please add correct Type Identifiers for PowerShell files on macOS,663,248,4,1,60,Medium,https://github.com/microsoft/vscode/issues/237199
+microsoft/vscode,237178,Please add an option to have word wrap toggled off for every editor by default,663,219,15,1,60,Medium,https://github.com/microsoft/vscode/issues/237178
+microsoft/vscode,245306,VSCode Remote Compatibility Issue with Older GLIBC 2.17,573,200,5,1,60,Medium,https://github.com/microsoft/vscode/issues/245306
+react/react,32836,[DevTools Bug]: Firefox devtools extension doesn't work with React 19,566,194,10,2,60,Medium,https://github.com/react/react/issues/32836
+microsoft/vscode,269338,MCP Servers: Change how remote and local configurations work,391,189,6,1,60,Medium,https://github.com/microsoft/vscode/issues/269338
+pandas-dev/pandas,60768,BUG: crosstab(aggfunc='skew') raises IndexError: single positional indexer is out-of-bounds,643,71,11,0,60,Medium,https://github.com/pandas-dev/pandas/issues/60768
+pandas-dev/pandas,61294,"BUG: join unexpectedly created extra column start with ""key_""",560,71,14,0,60,Medium,https://github.com/pandas-dev/pandas/issues/61294
+pandas-dev/pandas,61339,ENH: Add warning when `DataFrame.groupby` drops NA keys,553,71,8,0,60,Medium,https://github.com/pandas-dev/pandas/issues/61339
+pandas-dev/pandas,61353,BUG: inserting list of strings into Series auto-infers them as datetimes with mixed formats,550,71,8,0,60,Medium,https://github.com/pandas-dev/pandas/issues/61353
+react/react,34743,Bug: `react-hooks/set-state-in-effect` overly strict?,387,67,40,0,60,Medium,https://github.com/react/react/issues/34743
+react/react,32251,[React 19] aria attributes on custom elements behave maybe incorrectly,637,64,15,0,60,Medium,https://github.com/react/react/issues/32251
+pandas-dev/pandas,62883,BUILD: arm32 cross compile issues,365,60,4,0,60,Medium,https://github.com/pandas-dev/pandas/issues/62883
+react/react,33038,"Bug: New Customizable Select: option containing span, Select containing button causes hydration warning",547,43,25,0,60,Medium,https://github.com/react/react/issues/33038
+pandas-dev/pandas,61937,BUG: `Index` accepts lists as values,460,37,32,0,60,Medium,https://github.com/pandas-dev/pandas/issues/61937
+react/react,31981,[React 19] Reintroduce debugSource in some kind of opt-in way,660,30,17,0,60,Medium,https://github.com/react/react/issues/31981
+pandas-dev/pandas,62687,API/DEPR: disallow casting nan-float to bool,379,13,3,0,55,Medium,https://github.com/pandas-dev/pandas/issues/62687
+pandas-dev/pandas,61782,BUG: Errors using pyarrow datetime types on windows,479,13,2,0,55,Medium,https://github.com/pandas-dev/pandas/issues/61782
+pandas-dev/pandas,61291,BUG: reindex (and atleast several other methods) do not respect fill_value=None,560,13,1,0,55,Medium,https://github.com/pandas-dev/pandas/issues/61291
+pandas-dev/pandas,61856,BUG: Inconsistent .values NA/NaN,470,13,2,0,55,Medium,https://github.com/pandas-dev/pandas/issues/61856
+pandas-dev/pandas,62723,"BUG: assignment to `Series.iloc` with `dtype=""object""` converts dictionary to `Series`",375,13,3,0,55,Medium,https://github.com/pandas-dev/pandas/issues/62723
+pandas-dev/pandas,61896,BUG: `rank` gives incorrect outputs on Windows with PyArrow backend,466,13,3,0,55,Medium,https://github.com/pandas-dev/pandas/issues/61896
+react/react,34901,[Compiler Bug]: Incorrect closure hoisting causes runtime error,375,12,2,0,55,Medium,https://github.com/react/react/issues/34901
+react/react,35023,"[DevTools Bug] Commit tree already contains fiber ""1088"". This is a bug in React DevTools.",361,262,7,1,50,Medium,https://github.com/react/react/issues/35023
+microsoft/vscode,253204,"VSCode instances started through ""Relaunch VS Code"" button are started with PR_SET_NO_NEW_PRIVS",483,82,2,2,50,Medium,https://github.com/microsoft/vscode/issues/253204
+react/react,34752,[Compiler Bug]: Compiler incorrectly assumes non-nullability and lifts property access,386,29,16,0,45,Medium,https://github.com/react/react/issues/34752
+pandas-dev/pandas,62769,BUG: pd.read_parquet raises exception filtering on Period type columns,372,19,19,0,45,Medium,https://github.com/pandas-dev/pandas/issues/62769
+react/react,33041,Reconsider providing a cleaner hook-based solution to derived state,547,15,18,0,45,Medium,https://github.com/react/react/issues/33041
+react/react,33054,[Compiler Bug]: non-null assertion on objects produces non working js,546,15,15,0,45,Medium,https://github.com/react/react/issues/33054
+pandas-dev/pandas,62802,BUG: StringArray with NA behaves different to numpy object array for elementwise comparisons,370,13,4,0,45,Medium,https://github.com/pandas-dev/pandas/issues/62802
+pandas-dev/pandas,62602,"BUG: `pandas.date_range()` raises `NonExistentTimeError` despite `nonexistent=""shift_forward""` when crossing DST boundaries",386,13,4,0,45,Medium,https://github.com/pandas-dev/pandas/issues/62602
+pandas-dev/pandas,60819,ENH: show the raw unicode in the output formatting of Index/array?,635,13,6,0,45,Medium,https://github.com/pandas-dev/pandas/issues/60819
+pandas-dev/pandas,61813,ENH: Add Polars engine to read_csv,476,13,15,0,45,Medium,https://github.com/pandas-dev/pandas/issues/61813
+react/react,34919,react devtools version for firefox is outdated,373,12,13,0,45,Medium,https://github.com/react/react/issues/34919
+react/react,32950,[Compiler Bug]: Coverage report shows missing branch coverage,558,7,30,0,45,Medium,https://github.com/react/react/issues/32950
+react/react,34966,Bug: [19.2.0] Streaming scripts injected in `onAllReady` in `renderToPipeableStream` and `prerenderToNodeStream`,369,6,14,0,45,Medium,https://github.com/react/react/issues/34966
+pandas-dev/pandas,61317,ENH: Make DataFrame.filter accept filters in new formats,555,2,22,0,45,Medium,https://github.com/pandas-dev/pandas/issues/61317
+microsoft/vscode,245221,"When the keyboard focus is on the ""OK"" button and the TAB key is pressed, the focus moves to the subscription list, but focus is not visible: A11y_VS Code_Appling filter on subscription_keyboard",574,74,5,1,40,Low,https://github.com/microsoft/vscode/issues/245221
+pandas-dev/pandas,61943,BUG: series.groupby(level=0) and series.groupby(pd.Grouper(level=0)) produce different orders,460,72,7,1,40,Low,https://github.com/pandas-dev/pandas/issues/61943
+pandas-dev/pandas,61812,BUG: Dataframe.aggregate drops pyarrow backend for lambda aggregation functions,476,71,9,1,40,Low,https://github.com/pandas-dev/pandas/issues/61812
+pandas-dev/pandas,62903,BUG: `pd.concat()` produces invalid index when inputs have `Int64Dtype` index with `NA`s,364,12,14,0,35,Low,https://github.com/pandas-dev/pandas/issues/62903
+pandas-dev/pandas,62601,BUG: `DataFrame.resample()` fails across DST transitions with `NonExistentTimeError` in timezone-aware data,386,10,3,1,35,Low,https://github.com/pandas-dev/pandas/issues/62601
+pandas-dev/pandas,61951,BUG: Implicit upcast to float64 for large series (more than 1000000 rows),459,25,10,1,25,Low,https://github.com/pandas-dev/pandas/issues/61951
+pandas-dev/pandas,62922,BUG: read_parquet fails when passing a list of remote files (gcs),362,10,3,1,25,Low,https://github.com/pandas-dev/pandas/issues/62922

@@ -1,0 +1,38 @@
+repo,category,category_source,issues,open,pct_of_repo,est_population
+fastapi/fastapi,Unclassified,none,3,0,33.3,3.0
+fastapi/fastapi,Bug,label,2,0,22.2,2.0
+fastapi/fastapi,Question / Support,label,1,0,11.1,1.0
+fastapi/fastapi,Documentation,title_prefix,1,0,11.1,1.0
+fastapi/fastapi,Feature / Enhancement,title_keyword,1,0,11.1,1.0
+fastapi/fastapi,Bug,title_keyword,1,0,11.1,1.0
+microsoft/vscode,Unclassified,none,6729,131,59.3,6729.0
+microsoft/vscode,Bug,label,1786,531,15.7,1786.0
+microsoft/vscode,Bug,title_keyword,1170,9,10.3,1170.0
+microsoft/vscode,Feature / Enhancement,label,940,236,8.3,940.0
+microsoft/vscode,Feature / Enhancement,title_keyword,384,5,3.4,384.0
+microsoft/vscode,Question / Support,label,143,0,1.3,143.0
+microsoft/vscode,Bug,title_prefix,50,1,0.4,50.0
+microsoft/vscode,Feature / Enhancement,title_prefix,43,1,0.4,43.0
+microsoft/vscode,Bug,issue_type,43,28,0.4,43.0
+microsoft/vscode,Feature / Enhancement,issue_type,28,3,0.2,28.0
+microsoft/vscode,Accessibility,label,25,4,0.2,25.0
+microsoft/vscode,Performance,label,7,4,0.1,7.0
+microsoft/vscode,Task,issue_type,3,0,0.0,3.0
+pandas-dev/pandas,Bug,label,164,26,51.4,164.0
+pandas-dev/pandas,Feature / Enhancement,label,62,12,19.4,62.0
+pandas-dev/pandas,Documentation,label,42,1,13.2,42.0
+pandas-dev/pandas,Unclassified,none,24,4,7.5,24.0
+pandas-dev/pandas,Bug,title_prefix,8,2,2.5,8.0
+pandas-dev/pandas,Performance,label,7,0,2.2,7.0
+pandas-dev/pandas,Question / Support,label,5,0,1.6,5.0
+pandas-dev/pandas,Bug,title_keyword,5,0,1.6,5.0
+pandas-dev/pandas,Feature / Enhancement,title_keyword,1,0,0.3,1.0
+pandas-dev/pandas,Feature / Enhancement,issue_type,1,0,0.3,1.0
+react/react,Unclassified,none,180,4,41.4,180.0
+react/react,Bug,title_prefix,154,5,35.4,154.0
+react/react,Bug,label,83,36,19.1,83.0
+react/react,Feature / Enhancement,title_prefix,5,0,1.1,5.0
+react/react,Feature / Enhancement,label,5,4,1.1,5.0
+react/react,Question / Support,label,4,0,0.9,4.0
+react/react,Bug,title_keyword,3,0,0.7,3.0
+react/react,Question / Support,title_prefix,1,0,0.2,1.0

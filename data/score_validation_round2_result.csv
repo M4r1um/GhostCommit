@@ -1,0 +1,7 @@
+repo,tier,checked,said_yes,yes_pct
+microsoft/vscode,Monitor,5,2.0,40.0
+microsoft/vscode,Review first,5,3.0,60.0
+pandas-dev/pandas,Monitor,5,5.0,100.0
+pandas-dev/pandas,Review first,1,0.0,0.0
+react/react,Monitor,5,3.0,60.0
+react/react,Review first,2,1.0,50.0

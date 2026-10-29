@@ -1,0 +1,5 @@
+repository,sampled_issues,still_open,open_30plus_days,no_updates_30plus_days,median_days_to_close_closed_only
+microsoft/vscode,400,45,45,45,6.5
+react/react,356,45,45,38,1.4
+pandas-dev/pandas,319,45,45,28,14.4
+fastapi/fastapi,9,0,0,0,0.7

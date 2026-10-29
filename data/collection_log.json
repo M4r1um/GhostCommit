@@ -1,0 +1,18 @@
+{
+  "snapshot_at": "2026-10-27T23:57:32+00:00",
+  "repos": [
+    "microsoft/vscode",
+    "react/react",
+    "pandas-dev/pandas",
+    "fastapi/fastapi"
+  ],
+  "months": [
+    "2025-01",
+    "2025-04",
+    "2025-07",
+    "2025-10"
+  ],
+  "max_per_stratum": null,
+  "random_seed": 42,
+  "issues_written": 12114
+}

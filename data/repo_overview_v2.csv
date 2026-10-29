@@ -1,0 +1,6 @@
+repo,category,issues,pct_fixed,pct_closed_no_fix,pct_still_open,median_days_to_fix,median_inactive_days_open,pct_zero_comments
+microsoft/vscode,Bug,3049,51.1,30.3,18.7,5.0,322.0,14.8
+microsoft/vscode,Feature / Enhancement,1395,36.0,46.5,17.6,13.8,322.0,11.6
+pandas-dev/pandas,Bug,177,83.1,1.1,15.8,10.0,70.0,7.3
+pandas-dev/pandas,Feature / Enhancement,64,73.4,7.8,18.8,122.0,167.0,3.1
+react/react,Bug,240,40.4,42.5,17.1,5.0,342.0,21.3

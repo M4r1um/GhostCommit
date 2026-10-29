@@ -1,0 +1,17 @@
+repository,month,available_search_results,sampled_issues
+microsoft/vscode,2025-01,1364,100
+microsoft/vscode,2025-04,1586,100
+microsoft/vscode,2025-07,4728,100
+microsoft/vscode,2025-10,3673,100
+react/react,2025-01,96,96
+react/react,2025-04,60,60
+react/react,2025-07,177,100
+react/react,2025-10,102,100
+fastapi/fastapi,2025-01,2,2
+fastapi/fastapi,2025-04,1,1
+fastapi/fastapi,2025-07,1,1
+fastapi/fastapi,2025-10,5,5
+pandas-dev/pandas,2025-01,63,63
+pandas-dev/pandas,2025-04,75,75
+pandas-dev/pandas,2025-07,89,89
+pandas-dev/pandas,2025-10,92,92

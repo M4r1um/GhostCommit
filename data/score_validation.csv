@@ -1,0 +1,16 @@
+repository,issue_number,title,attention_score,attention_level,inactive_days,comments,assignee_count,html_url,rank_in_repository
+microsoft/vscode,237160,copy paste on cells does not copy the tags only cell is copied,90,High,151,0,0,https://github.com/microsoft/vscode/issues/237160,1
+microsoft/vscode,237234,No hint shown when hovering over type in debugger variables view,80,High,659,0,1,https://github.com/microsoft/vscode/issues/237234,2
+microsoft/vscode,245323,Folder settings label not vertically aligned,80,High,573,0,1,https://github.com/microsoft/vscode/issues/245323,3
+microsoft/vscode,245199,Settings editor: allow a query that combines `id` and `tag`,80,High,571,0,1,https://github.com/microsoft/vscode/issues/245199,4
+microsoft/vscode,245278,Add a Border or Container for Walkthrough Videos for Better Visual Framing,80,High,543,0,1,https://github.com/microsoft/vscode/issues/245278,5
+pandas-dev/pandas,60767,"BUG: pd.crosstab(dropna=True, values=) drops rows and columns where any aggregation result is null.",90,High,641,1,0,https://github.com/pandas-dev/pandas/issues/60767,1
+pandas-dev/pandas,61256,"ENH: Utility to return ""feasible"" dtype for `infer_dtype` output.",90,High,485,2,0,https://github.com/pandas-dev/pandas/issues/61256,2
+pandas-dev/pandas,61772,BUG: Calling dict(df.groupby(...)) raises TypeError: 'str' object is not callable despite valid inputs,90,High,477,2,0,https://github.com/pandas-dev/pandas/issues/61772,3
+pandas-dev/pandas,62558,ENH: Adding an empty level at the end of a multi index,90,High,204,2,0,https://github.com/pandas-dev/pandas/issues/62558,4
+pandas-dev/pandas,60671,"BUG: .to_period with MonthBegin offset does not work with a Timestamp, but works with pd.DatetimeIndex",80,High,634,6,0,https://github.com/pandas-dev/pandas/issues/60671,5
+react/react,32089,[DevTools Bug]: incorrect error on react-hooks/exhaustive-deps,100,High,637,0,0,https://github.com/react/react/issues/32089,1
+react/react,32835,[DevTools Bug]: symbolicated sourcemaps won't fetch for rsc components on Chrome 135.0.7 (rsc:// and webpack:// prefixed fetches fail),100,High,566,0,0,https://github.com/react/react/issues/32835,2
+react/react,34800,[Compiler Bug]: Using a hook from an object bundle makes Compiler skip the consuming hook,100,High,358,0,0,https://github.com/react/react/issues/34800,3
+react/react,34888,[Compiler Bug]: Recursive functions seem to confuse the compiler,100,High,358,0,0,https://github.com/react/react/issues/34888,4
+react/react,34899,[Compiler Bug]: Incorrect JS output when copying and updating global variable with `+=` in `useEffect`,100,High,358,0,0,https://github.com/react/react/issues/34899,5

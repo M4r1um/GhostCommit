@@ -1,0 +1,41 @@
+repository,issue_number,title,labels,state,html_url
+fastapi/fastapi,13606,FastAPI Tensor flow and tensor flow lite issue with Pyhon v3.14.x when making a pip installtion bug,,closed,https://github.com/fastapi/fastapi/issues/13606
+fastapi/fastapi,14247,Component name regression in OpenAPI spec for v0.119.0,bug,closed,https://github.com/fastapi/fastapi/issues/14247
+fastapi/fastapi,14271,🐛 0.120.3 breaks `SecurityBase` based dependencies in OpenAPI,bug,closed,https://github.com/fastapi/fastapi/issues/14271
+microsoft/vscode,237136,{Linked:Bug9528439} NVDA/JAWS is not announcing the state expand/collapse for the pick model button: A11y_VS Code_Copilot Chat_Screen Reader,bug|accessibility,open,https://github.com/microsoft/vscode/issues/237136
+microsoft/vscode,237141,{Linked:Bug9576428} The selected value is not announced when navigating to the pick model dropdown: A11y_VS Code_Copilot Chat_Screen Reader,,closed,https://github.com/microsoft/vscode/issues/237141
+microsoft/vscode,237142,Allow to open multiple editors in one group by tab multiselect,feature-request|workbench-tabs|workbench-editors,closed,https://github.com/microsoft/vscode/issues/237142
+microsoft/vscode,237144,Unable to execute Python code with input function in VS Code in Python notebook,bug|info-needed|notebook-ipynb,closed,https://github.com/microsoft/vscode/issues/237144
+microsoft/vscode,237146,Editor Context Menu Item Order,feature-request|menus,closed,https://github.com/microsoft/vscode/issues/237146
+microsoft/vscode,237148,"Abnormal  CPU Usage, caused by none of extentions",bug,open,https://github.com/microsoft/vscode/issues/237148
+microsoft/vscode,237150,TS Server fatal error:  Debug Failure. False expression.,,closed,https://github.com/microsoft/vscode/issues/237150
+microsoft/vscode,237153,When debugging extension the collection of extensions in vscode.extensions.all in devcontainer does not include language extensions,,closed,https://github.com/microsoft/vscode/issues/237153
+microsoft/vscode,237160,copy paste on cells does not copy the tags only cell is copied,bug|notebook|notebook-clipboard,open,https://github.com/microsoft/vscode/issues/237160
+microsoft/vscode,237163,VSCode Windows Do Not Restore to Their Original Ubuntu Workspaces After Reboot,feature-request|linux|workbench-window,closed,https://github.com/microsoft/vscode/issues/237163
+microsoft/vscode,237165,Git - Saving/closing COMMIT_EDITMSG during a git commit randomly does not complete the commit,bug|git|*not-reproducible,closed,https://github.com/microsoft/vscode/issues/237165
+microsoft/vscode,237168,Bug on terminal,,closed,https://github.com/microsoft/vscode/issues/237168
+microsoft/vscode,237170,bug,info-needed,closed,https://github.com/microsoft/vscode/issues/237170
+microsoft/vscode,237171,Duplicate ColorIdentifier strings in inlineChat.ts,bug|verified|insiders-released|inline-chat,closed,https://github.com/microsoft/vscode/issues/237171
+microsoft/vscode,237172,problem in function title,bug|verified|php|insiders-released,closed,https://github.com/microsoft/vscode/issues/237172
+microsoft/vscode,237177,{Linked:Bug9528434} The interactive control in the @workspace tooltip is not accessible using keyboard (Tab or Arrow) keys: A11y_VS Code_Copilot Chat_Keyboard,bug|verified|accessibility|insiders-released|accessibility-sla|chat,closed,https://github.com/microsoft/vscode/issues/237177
+microsoft/vscode,237178,Please add an option to have word wrap toggled off for every editor by default,feature-request|editor-wrapping,open,https://github.com/microsoft/vscode/issues/237178
+microsoft/vscode,237179,"{Linked:Bug9577427} When a list item is selected in Pick Model, the list box closes and reopens without any user interaction:  A11y_VS Code_Copilot Chat_Pick model_Usability",bug|verified|accessibility|windows|insiders-released,closed,https://github.com/microsoft/vscode/issues/237179
+microsoft/vscode,237180,When trying to open a 300MB log file the VCD Crashes,bug|freeze-slow-crash-leak,open,https://github.com/microsoft/vscode/issues/237180
+microsoft/vscode,237181,Make the activity icons toggleable when on top (and bottom),feature-request|workbench-views,closed,https://github.com/microsoft/vscode/issues/237181
+microsoft/vscode,237192,"""Terminal: Create New Terminal (In Active Workspace)"" with ""Terminal > Integrated: Default Location"" set to editor still focuses on Terminal view",bug|verified|terminal-tabs,closed,https://github.com/microsoft/vscode/issues/237192
+microsoft/vscode,237197,XUnit v3 packages cause VSCode 'codelens' debugging to become unavailable (tests are otherwise discovered okay in the sidebar),*caused-by-extension,closed,https://github.com/microsoft/vscode/issues/237197
+microsoft/vscode,237199,Please add correct Type Identifiers for PowerShell files on macOS,feature-request|install-update|macos,open,https://github.com/microsoft/vscode/issues/237199
+microsoft/vscode,237201,Allow for styling the bracket colorized guides,feature-request|bracket-pair-guides,open,https://github.com/microsoft/vscode/issues/237201
+microsoft/vscode,237203,Problem with anchor $ in the search-replace menu on a corner case,bug|search|*out-of-scope,closed,https://github.com/microsoft/vscode/issues/237203
+microsoft/vscode,237207,Screen Flickering Issue,bug,open,https://github.com/microsoft/vscode/issues/237207
+microsoft/vscode,237208,Terminal Bug: Race condition looses terminal data in shell integration (AsyncIterable consumer with POC),bug|api|verified|insiders-released|terminal-shell-integration,closed,https://github.com/microsoft/vscode/issues/237208
+microsoft/vscode,237212,Setting `restoreWindows: none` still restores empty windows with backups,bug|verified|confirmed|regression|author-verification-requested|insiders-released,closed,https://github.com/microsoft/vscode/issues/237212
+microsoft/vscode,237219,"""deleteInsideWord"" also removes whitespace before it",bug|verified|editor-commands|insiders-released,closed,https://github.com/microsoft/vscode/issues/237219
+microsoft/vscode,237220,"Support data URI's in image preview, so it could be used from extensions",feature-request,open,https://github.com/microsoft/vscode/issues/237220
+microsoft/vscode,237221,Change Vertical Scrollbar Track Color,feature-request,closed,https://github.com/microsoft/vscode/issues/237221
+microsoft/vscode,237225,Nodejs worker not working when running nodejs server from js debug terminal,info-needed|upstream,closed,https://github.com/microsoft/vscode/issues/237225
+microsoft/vscode,237234,No hint shown when hovering over type in debugger variables view,bug|debug,open,https://github.com/microsoft/vscode/issues/237234
+microsoft/vscode,237241,"Join lines should not add a space ("" "") character between joined lines",feature-request,closed,https://github.com/microsoft/vscode/issues/237241
+microsoft/vscode,237359,Can't use Notebook Find (ctrl+f) in notebook diff viewer,bug|notebook-find,open,https://github.com/microsoft/vscode/issues/237359
+microsoft/vscode,245195,Request for Additional Font Size and Line Spacing Options on Mac,feature-request|editor-core|font-rendering,closed,https://github.com/microsoft/vscode/issues/245195
+microsoft/vscode,245199,Settings editor: allow a query that combines `id` and `tag`,feature-request|settings-editor,open,https://github.com/microsoft/vscode/issues/245199

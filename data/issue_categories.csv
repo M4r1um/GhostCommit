@@ -1,0 +1,14 @@
+repository,issue_category,total_issues,open_issues,open_percentage
+fastapi/fastapi,Other / Unclassified,6,0,0.0
+fastapi/fastapi,Bug,3,0,0.0
+microsoft/vscode,Other / Unclassified,270,6,2.2
+microsoft/vscode,Bug,94,23,24.5
+microsoft/vscode,Enhancement / Feature,34,16,47.1
+microsoft/vscode,Accessibility,2,0,0.0
+pandas-dev/pandas,Bug,181,29,16.0
+pandas-dev/pandas,Other / Unclassified,78,4,5.1
+pandas-dev/pandas,Enhancement / Feature,60,12,20.0
+react/react,Bug,221,40,18.1
+react/react,Other / Unclassified,131,3,2.3
+react/react,Enhancement / Feature,3,2,66.7
+react/react,Accessibility,1,0,0.0
